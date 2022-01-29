@@ -1,0 +1,94 @@
+h1,h2,h3{
+    font-family: "Garamond", serif;
+    color: #c8a4a7;
+    font-size: 40px
+}
+
+#second,#third{
+    font-family: "Garamond", serif;
+    font-size: 30px
+}
+
+.container,.btn,.btn-outline-primary,.btn-sm{
+    font-family: "Garamond", serif;
+    font-size: 25px
+}
+
+.nav, .nav-pills, .navbar-dark, .bg-dark, .py-3{
+    font-family: "Garamond", serif;
+    font-size: 25px
+}
+
+#map{
+    height: 400px;
+    width: 100%;
+}
+
+#aboutP{
+    font-family: "Garamond", serif;
+    font-size: 25px
+}
+
+#homeButton{
+    background-color:#c8a4a7;
+    border-color:lavender;
+}
+
+.about-section{
+    padding: 40px;
+}
+
+#tuPian{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 42%;
+}
+
+#biaoTi{
+    margin: auto;
+    width: 50%;
+    padding: 20px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+#labCard, #labContainer{
+    margin: auto;
+    width: 50%;
+    padding: 20px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+#dropdownMenuButton1 {
+    color: #c8a4a7;
+}
+
+#dC {
+    color: #c8a4a7;
+}
+
+#sE {
+    color: #c8a4a7;
+}
+
+#intro {
+    margin: auto;
+    width: 50%;
+    padding: 40px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
