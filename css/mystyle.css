@@ -4,6 +4,20 @@ h1,h2,h3{
     font-size: 40px
 }
 
+.images{
+    display:flex; 
+    flex-direction: row;
+}
+
+.images .column{
+    margin:3%;
+}
+
+.images img{
+    width: auto;
+    height: 400px; 
+}
+
 #second,#third{
     font-family: "Garamond", serif;
     font-size: 30px
@@ -34,7 +48,7 @@ h1,h2,h3{
     font-size: 25px
 }
 
-#homeButton{
+#homeButton, #button-search{
     background-color:#c8a4a7;
     border-color:lavender;
 }
